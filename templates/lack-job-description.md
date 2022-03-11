@@ -1,0 +1,1 @@
+Hi, thanks for reaching out and mentioning this exciting opportunity. Could you please point me to the job posting for this role? I'd like to read the job description to better understand the role and the responsibilities. Without this information, I could not dedicate time to the preparation and interviews. Thanks again for understanding, and I look forward to hearing from you.

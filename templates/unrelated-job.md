@@ -1,0 +1,1 @@
+Hi, thanks for reaching out. While I appreciate this great opportunity, I don't believe that my skills and experience match up for this role. Feel free to take a look at my LinkedIn or personal website to understand my career interests/goals. I'll be happy to connect and stay in touch for future opportunities.

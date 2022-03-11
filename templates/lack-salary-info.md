@@ -1,0 +1,1 @@
+Hi, thanks for reaching out and mentioning this exciting opportunity. In respect of our time, I would like to know the compensation details, especially the salary range, for this role. Without this information, I could not dedicate time to the preparation and interviews. Thanks again for understanding, and I look forward to hearing from you.

@@ -1,0 +1,1 @@
+Hi, thanks for reaching out. If you check my LinkedIn profile, I recently started in my current role and am not looking for an immediate move. I take commitments seriously and would like to grow in my current role. However, I highly appreciate the opportunity and would like to keep in touch.
