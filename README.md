@@ -4,9 +4,9 @@ Your time is limited and valuable. You also have the nicest of problems to have 
 
 ### The templates:
 
-1. [Template response to the lack of job description](templates/lack-job-description.md)
-2. [Template response to the lack of salary range](templates/lack-salary-info.md)
-3. [Template response when you just started in a new role](templates/too-early-to-move.md)
-4. [Template response when the role is too junior](templates/too-junior-role.md)
-5. [Template response when the role is not related](templates/unrelated-job.md)
-6. [Template response to the first DevRel hire](templates/first-devrel-hire.md)
+1. [Lack of job description](templates/lack-job-description.md)
+2. [Lack of salary range](templates/lack-salary-info.md)
+3. [When you just started in a new role](templates/too-early-to-move.md)
+4. [When the role is too junior](templates/too-junior-role.md)
+5. [When the role is not related](templates/unrelated-job.md)
+6. [First DevRel hire](templates/first-devrel-hire.md)
