@@ -10,6 +10,7 @@ Your time is limited and valuable. You also have the nicest of problems to have 
 4. [When the role is too junior](templates/too-junior-role.md)
 5. [When the role is not related](templates/unrelated-job.md)
 6. [First DevRel hire](templates/first-devrel-hire.md)
+7. [Exploding offer](templates/exploding-offer.md)
 
 ---
 
